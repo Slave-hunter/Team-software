@@ -1,6 +1,6 @@
 # About this project
 
-Portfolio showcase
+A software for teams 
 
 ## Tech stack
 
