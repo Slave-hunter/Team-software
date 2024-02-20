@@ -8,7 +8,7 @@ A software for teams
 - html
 - css
 - js
-- bootstrap
+- tailwind
 
 ### Preview
 
